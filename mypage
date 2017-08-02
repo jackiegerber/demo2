@@ -5,5 +5,6 @@ MIENTRAS control != 0 HACER;
 			COLOCAR : (x,px,prom);
 			px++;
 			IMPRIMIR : "Para finalizar la carga ingrese 0, para continuar un numero cualquiera.";
+			TOMAR : p1, p2, p3, p4;
 		FIN_MIENTRAS
     
