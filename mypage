@@ -4,6 +4,8 @@ MIENTRAS control != 0 HACER;
 			prom = (p1+p2+p3+p4)/4
 			COLOCAR : (x,px,prom);
 			px++;
-			IMPRIMIR : "Para finalizar la carga ingrese 0, para continuar un numero cualquiera.";
+			IMPRIMIR : "Para finalizar la carga ingrese 0, para continuar un numero cualquiera."
+			IMPRIMIR : "Para finalizar la carga ingrese 0, para continuar un numero cualquiera2.";
+;
 		FIN_MIENTRAS
     
